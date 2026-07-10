@@ -86,28 +86,6 @@ Performance:
 
 ---
 
-## Run Locally
-
-Clone the repository
-
-```bash
-git clone https://github.com/Vansh1621/heart-disease-prediction.git
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
-
----
-
 
 ## Future Improvements
 
